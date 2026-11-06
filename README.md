@@ -13,8 +13,8 @@ The purpose of this project is to provide a simple reference implementation of t
 
 ## Prerequisites
 Before working with this project, ensure the following are installed:
-- Visual Studio 2022  
-- .NET SDK compatible with Blazor  
+- Visual Studio 2022 or later / Visual Studio Code
+- .NET 10 SDK
 
 ## Installation
 1. Clone this repository to your local machine.
